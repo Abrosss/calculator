@@ -63,6 +63,7 @@ body{
     font-weight: bold;
     font-size: 1.4rem;
     box-shadow: 0 2.5px hsl(28, 16%, 65%);
+    color: hsl(221, 14%, 31%);
 }
 span{
     display: block;
